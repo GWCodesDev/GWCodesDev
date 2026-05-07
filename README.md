@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Gabriel William
 
-**`No caminho para Desenvolvedor FullStack🚀`**
+**`Desenvolvedor Fullstack Júniork🚀`**
 
-Sou Desenvolvedor Front-end e Back-end em formação e atualmente curso Bacharelado em Engenharia de Software. Tenho foco em criar soluções escaláveis, seguras e bem estruturadas, priorizando boas práticas de desenvolvimento e qualidade de código., Segue meu Instagram, com o perfil chamado "[Gabriel William](https://www.instagram.com/gabrielll_br/)".
+Bacharel em Engenharia de Software, atuo no desenvolvimento Fullstack com foco na criação de soluções escaláveis, seguras e bem estruturadas, sempre priorizando boas práticas, organização e qualidade de código. Aqui compartilho minha evolução, projetos, aprendizados e experiências ao longo da minha jornada na tecnologia. 📲 Segue meu Instagram:"[Gabriel William](https://www.instagram.com/gabrielll_br/)".
 
 <p align="left">
     <a href="https://github.com/GabrielSoft?tab=repositories&sort=stargazers">
