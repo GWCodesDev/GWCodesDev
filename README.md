@@ -1,22 +1,22 @@
-# 👩🏻‍💻 Gabriel William
+# 👩🏻‍💻 Olá, eu sou Gabriel William — GWCodes 
 
 **`Desenvolvedor Fullstack Júniork🚀`**
 
-Bacharel em Engenharia de Software, atuo no desenvolvimento Fullstack com foco na criação de soluções escaláveis, seguras e bem estruturadas, sempre priorizando boas práticas, organização e qualidade de código. Aqui compartilho minha evolução, projetos, aprendizados e experiências ao longo da minha jornada na tecnologia. 📲 Segue meu Instagram:"[Gabriel William](https://www.instagram.com/gabrielll_br/)".
+Bacharel em Engenharia de Software, atuo no desenvolvimento Fullstack com foco na criação de soluções escaláveis, seguras e bem estruturadas, sempre priorizando boas práticas, organização e qualidade de código. Aqui compartilho minha evolução, projetos, aprendizados e experiências ao longo da minha jornada na tecnologia. 📲 Segue meu Instagram:"[Gabriel William](https://www.instagram.com/gwcodes/)".
 
 <p align="left">
-    <a href="https://github.com/GabrielSoft?tab=repositories&sort=stargazers">
+    <a href="https://github.com/GWCodesDevt?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GabrielSoft?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/GWCodesDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/GabrielSoft?tab=followers">
+    <a href="https://github.com/GWCodesDev ;?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GabrielSoft?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/GWCodesDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -96,4 +96,4 @@ Bacharel em Engenharia de Software, atuo no desenvolvimento Fullstack com foco n
 ---
 
 ### 📫 Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-william7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gwcodes/)
